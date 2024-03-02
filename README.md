@@ -48,6 +48,6 @@ The web service endpoints should implement the following functionality:
    [{"direction":"EAST","steps":1},{"direction":"NORTH","steps":3},{"direction":"WEST","steps":1},{"direction":"SOUTH","steps":3}]
    ```
 
-* *Optional*: Find the shortest path through all of the locations provided as an input.
+* *Optional*: Find the shortest path through all the locations provided as an input.
 * *Note*: For testing you could also use commands from [requests.http](requests.http)
 
